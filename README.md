@@ -45,3 +45,6 @@ using the Quick Select principle.
 but in our case, the **Combine** step does not require additional work. 
 Once the desired element is found, it is simply returned.
 
+# TASK RESULTS
+
+![Task 1 2 results](assets/task_1_2_results.png)
